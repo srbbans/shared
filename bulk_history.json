@@ -1,0 +1,32 @@
+{
+  "accessToken": null,
+  "resultType": 0,
+  "resultCode": 0,
+  "resultDesc": "Success",
+  "result": [
+    {
+      "transaction_id": 26897221,
+      "transaction_date": "2024-08-1"
+    },
+    {
+      "transaction_id": 26897222,
+      "transaction_date": "2024-08-3"
+    },
+    {
+      "transaction_id": 26897223,
+      "transaction_date": "2024-08-14"
+    },
+    {
+      "transaction_id": 26897225,
+      "transaction_date": "2024-08-18"
+    },
+    {
+      "transaction_id": 26897226,
+      "transaction_date": "2024-08-22"
+    },
+    {
+      "transaction_id": 26897227,
+      "transaction_date": "2024-08-31"
+    }
+  ]
+}
