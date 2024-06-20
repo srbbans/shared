@@ -5,28 +5,39 @@
   "resultDesc": "Success",
   "result": [
     {
-      "transaction_id": 26897221,
-      "transaction_date": "2024-08-1"
+      "BulkRefNo": "BRN123456",
+      "TotalCount": 100,
+      "TotalAmount": 5000.00,
+      "TotalSuccessCount": 95,
+      "CreatedOn": "2024-06-20T12:00:00Z"
     },
     {
-      "transaction_id": 26897222,
-      "transaction_date": "2024-08-3"
+      "BulkRefNo": "BRN123457",
+      "TotalCount": 150,
+      "TotalAmount": 7500.00,
+      "TotalSuccessCount": 140,
+      "CreatedOn": "2024-06-21T14:30:00Z"
     },
     {
-      "transaction_id": 26897223,
-      "transaction_date": "2024-08-14"
+      "BulkRefNo": "BRN123458",
+      "TotalCount": 200,
+      "TotalAmount": 10000.00,
+      "TotalSuccessCount": 190,
+      "CreatedOn": "2024-06-22T10:15:00Z"
     },
     {
-      "transaction_id": 26897225,
-      "transaction_date": "2024-08-18"
+      "BulkRefNo": "BRN123459",
+      "TotalCount": 120,
+      "TotalAmount": 6000.00,
+      "TotalSuccessCount": 115,
+      "CreatedOn": "2024-06-23T08:45:00Z"
     },
     {
-      "transaction_id": 26897226,
-      "transaction_date": "2024-08-22"
-    },
-    {
-      "transaction_id": 26897227,
-      "transaction_date": "2024-08-31"
+      "BulkRefNo": "BRN123460",
+      "TotalCount": 180,
+      "TotalAmount": 9000.00,
+      "TotalSuccessCount": 175,
+      "CreatedOn": "2024-06-24T16:00:00Z"
     }
   ]
 }
